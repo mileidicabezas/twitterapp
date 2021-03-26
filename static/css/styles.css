@@ -1,0 +1,35 @@
+
+.header {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.header-right {
+    background-color: lightblue;
+    padding: 10px 10px;
+    display: block;
+    color: #34abeb;
+    text-align: right;
+
+}
+
+.acciones {
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    overflow:scroll;
+    background-color: lightblue;
+  }
+
+/* Change the link cogit lor to #111 (black) on hover */
+.header-right a:hover {
+    background-color: #34cdeb;
+}
+
+
+ 
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #34cdeb;
+  }
